@@ -1,0 +1,31 @@
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\F1(sexo perez).exe.config
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\F1(sexo perez).exe
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\F1(sexo perez).pdb
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1(sexo perez).csproj.AssemblyReference.cache
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1(sexo perez).csproj.SuggestedBindingRedirects.cache
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1_sexo_perez_.Form1.resources
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1_sexo_perez_.Properties.Resources.resources
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1(sexo perez).csproj.GenerateResource.cache
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1(sexo perez).csproj.CoreCompileInputs.cache
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1(sexo perez).csproj.CopyComplete
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1(sexo perez).exe
+C:\Users\cecra\source\repos\F1(sexo perez)\F1(sexo perez)\obj\Debug\F1(sexo perez).pdb
